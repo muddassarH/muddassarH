@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muddassarH
-- 👀 I’m interested in WORKING ON  PYTHON / PHP LARAVEL...
+- 👀 I’m interested in WORKING ON  PYTHON .
 - 🌱 I’m currently WORING ON PYTHON
 - 💞️ I’m looking to for practice projects ...
 - 📫 How to reach me by whatsapp (+923115920298)
