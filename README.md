@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @muddassarH
-- 👀 I’m interested in WORKING ON  PYTHON .
-- 🌱 I’m currently WORING ON PYTHON
-- 💞️ I’m looking to for practice projects ...
+- 👋 Hi, I’m Muddassar Hussain
+- 👀 I’m interested in PYTHON DEVELOPMENT.
+- 🌱 I have 2 years of Experience.
+- 💞️ I’m looking to for projects ...
 - 📫 How to reach me by whatsapp (+923115920298)
 
 <!---
