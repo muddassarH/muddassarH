@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muddassar Hussain
 - 👀 I’m interested in PYTHON DEVELOPMENT.
-- 🌱 I have 2 years of Experience.
 - 💞️ I’m looking to for projects ...
 - 📫 How to reach me by whatsapp (+923115920298)
 
